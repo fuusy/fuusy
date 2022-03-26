@@ -1,5 +1,8 @@
 ### 👋 Touching the world with your fingertips
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+
  ![](https://github-readme-stats.vercel.app/api?username=fuusy)
  
 - 🌱 Android/Flutter   
